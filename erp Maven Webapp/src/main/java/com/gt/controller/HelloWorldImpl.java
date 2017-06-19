@@ -15,5 +15,9 @@ public class HelloWorldImpl implements HelloWorld {
 	}
 
 	
+	public void aa(){
+		System.out.println(11);
+	}
+	
 
 }
