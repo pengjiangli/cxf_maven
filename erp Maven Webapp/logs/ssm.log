@@ -1,0 +1,4 @@
+[INFO] [2017-05-16 18:18:58][org.apache.cxf.service.factory.ReflectionServiceFactoryBean]Creating Service {http://controller.gt.com/}HelloWorld from class com.gt.controller.HelloWorld
+[ERROR] [2017-05-16 18:18:59][org.apache.cxf.transport.http.HTTPTransportFactory]Cannot find any registered HttpDestinationFactory from the Bus.
+[INFO] [2017-05-16 18:21:03][org.apache.cxf.service.factory.ReflectionServiceFactoryBean]Creating Service {http://controller.gt.com/}HelloWorld from class com.gt.controller.HelloWorld
+[ERROR] [2017-05-16 18:21:03][org.apache.cxf.transport.http.HTTPTransportFactory]Cannot find any registered HttpDestinationFactory from the Bus.
