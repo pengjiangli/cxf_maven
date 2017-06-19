@@ -19,5 +19,18 @@ public class HelloWorldImpl implements HelloWorld {
 		System.out.println(11);
 	}
 	
+	
+	public void cc(){
+		System.out.println(222);
+	}
+	
+	
+	public void dd(){
+		System.out.println(344);
+	}
+	
+	public void gg(){
+		System.out.println("bbb");
+	}
 
 }
