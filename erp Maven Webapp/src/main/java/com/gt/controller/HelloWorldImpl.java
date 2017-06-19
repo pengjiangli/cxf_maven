@@ -32,5 +32,9 @@ public class HelloWorldImpl implements HelloWorld {
 	public void gg(){
 		System.out.println("bbb");
 	}
+	
+	public void sss(){
+		System.out.println(4444);
+	}
 
 }
